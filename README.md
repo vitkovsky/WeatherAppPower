@@ -1,2 +1,2 @@
 # WeatherAppPower
-WeatherApp
+UIKit + async/await + MVVM + Coordinator + Combine + DiffableDataSource + CompositionalLayout
